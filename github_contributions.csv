@@ -1,1 +1,21 @@
-Mageplaza,Mageplaza
+"Default welcome msg!","ડિફોલ્ટ સ્વાગત સંદેશ!",module,Magento_Theme
+"Sign In","સાઇન ઇન કરો",module,Magento_Backend
+"Create an Account","એકાઉન્ટ બનાવો",module,Magento_Checkout
+"Create an Account","એકાઉન્ટ બનાવો",module,Magento_Company
+"Create an Account","એકાઉન્ટ બનાવો",module,Magento_Customer
+"Create an Account","એકાઉન્ટ બનાવો",module,Magento_CustomerCustomAttributes
+"Search entire store here...","સમગ્ર સ્ટોર અહીં શોધો ...",module,Magento_Search
+"or","અથવા",module,Magento_Braintree
+"or","અથવા",module,Magento_Customer
+"or","અથવા",module,Magento_Paypal
+"All","બધા",module,Magento_AdminGws
+"None","કંઈ નહીં",module,Magento_AdminGws
+"We can't find products matching the selection.","અમે આપણા પસંદગી સાથે મેળ ખાતા પ્રોડક્ટ્સ શોધી શકતા નથી.",module,Magento_Catalog
+"Compare Products","પ્રોડક્ટ્સની સરખામણી કરો",module,Magento_Catalog
+"You have no items to compare.","તમારી પાસે તુલના કરવા માટે કોઈ વસ્તુઓ નથી.",module,Magento_Catalog
+"My Wish List","મારી ઈચ્છા સૂચિ",module,Magento_Wishlist
+"You have no items in your wish list.","તમારી ઇચ્છા સૂચિમાં તમારી પાસે કોઈ વસ્તુઓ નથી.",module,Magento_Wishlist
+"close","બંધ કરો",module,Magento_AdminNotification
+"major","મુખ્ય",module,Magento_AdminNotification
+"minor","સામાન્ય",module,Magento_AdminNotification
+"notice","નોટિસ",module,Magento_AdminNotification

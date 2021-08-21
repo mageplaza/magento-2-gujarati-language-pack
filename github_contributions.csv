@@ -19,3 +19,82 @@
 "major","મુખ્ય",module,Magento_AdminNotification
 "minor","સામાન્ય",module,Magento_AdminNotification
 "notice","નોટિસ",module,Magento_AdminNotification
+"Allowed Scopes","અવકાશ મંજૂરી છે",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","""%1"" ડીલીટ કરવા માટે વધારે પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે તમારે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"More permissions are needed to view this item.","આ આઇટમ જોવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","આ એન્ટિટીને સ્ટોર વ્યૂને સોંપવાની જરૂર છે. એન્ટિટી સોંપણી ચકાસો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"This item needs to be assigned to a store view.","આ આઇટમને સ્ટોર વ્યૂમાં સોંપવાની જરૂર છે.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","ઓર્ડર ફક્ત સક્રિય સ્ટોરમાં જ પૂર્ણ કરી શકાય છે. સ્ટોર ચકાસો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","આ આઇટમને સ્ટોર વ્યૂમાં સોંપવાની જરૂર છે. આઇટમ સોંપો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"More permissions are needed to save this item.","આ આઈટમને સેવ કરવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","ઓછામાં ઓછી એક વેબસાઇટ અથવા સ્ટોર ગ્રુપ પસંદ કરવાની જરૂર છે. પસંદ કરો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","બધા ક્ષેત્રને ભૂમિકામાં સેટ કરવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","આ ""%1"" વેબસાઇટ આઇડી ખોટી છે. વેબસાઇટ આઇડી ને ચકાસો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","વેબસાઇટ એક્સેસ કરવા માટે તમારે વધુ પરવાનગીઓની જરૂર છે ""%1"".",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","આ ""%1"" સ્ટોર આઈડી ખોટી છે. સ્ટોર આઈડી ચકાસો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","આ સેટિંગને સેવ કરવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"Role Scopes","રોલ અવકાશ",module,Magento_AdminGws
+"Custom","કસ્ટોમ",module,Magento_AdminGws
+"Read Details","વિગતો વાંચો",module,Magento_AdminNotification
+"Mark as Read","વાંચેલ તરીકે ચિહ્નિત કરો",module,Magento_AdminNotification
+"Are you sure?","શું તમને ખાતરી છે?",module,Magento_AdminNotification
+"Remove","દૂર કરો",module,Magento_AdminNotification
+"Messages Inbox","સંદેશાઓ ઇનબોક્સ",module,Magento_AdminNotification
+"You have %1 new system messages","તમારી પાસે %1 નવા સિસ્ટમ સંદેશા છે.",module,Magento_AdminNotification
+"Incoming Message","આવતો સંદેશ",module,Magento_AdminNotification
+"Notifications","સૂચનાઓ",module,Magento_AdminNotification
+"The message has been marked as Read.","સંદેશને વાંચ્યા તરીકે ચિહ્નિત કરવામાં આવ્યો છે.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","ભૂલને કારણે અમે સૂચનાને વાંચ્યા તરીકે ચિહ્નિત કરી શક્યા નથી.",module,Magento_AdminNotification
+"Please select messages.","કૃપા કરીને સંદેશાઓ પસંદ કરો.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","કુલ %1 રેકોર્ડ(ઓ) ને રીડ તરીકે ચિહ્નિત કરવામાં આવ્યા છે.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","કુલ %1 રેકોર્ડ(ઓ) દૂર કરવામાં આવ્યા છે.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","અમે ભૂલને કારણે સંદેશાઓ દૂર કરી શક્યા નથી.",module,Magento_AdminNotification
+"The message has been removed.","સંદેશ દૂર કરવામાં આવ્યો છે.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","તમે બધી તાજેતરની સિસ્ટમ સૂચનાઓ જોઈ અને ઉકેલી છે. નોટિસ ચેતવણી સાફ કરવા માટે કૃપા કરીને વેબ પેજને તાજું કરો.",module,Magento_AdminNotification
+"1 Hour","૧ કલાક",module,Magento_AdminNotification
+"2 Hours","૨ કલાક",module,Magento_AdminNotification
+"6 Hours","૬ કલાક",module,Magento_AdminNotification
+"12 Hours","૧૨ કલાક",module,Magento_AdminNotification
+"24 Hours","૨૪ કલાક",module,Magento_AdminNotification
+"critical","જટિલ",module,Magento_AdminNotification
+"Wrong message type","ખોટો સંદેશ પ્રકાર",module,Magento_AdminNotification
+"Wrong notification ID specified.","ખોટી સૂચના આઈડી દર્શાવેલ છે.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} બેઝ અનસિક્યોર યુઆરએલ / બેઝ સિક્યોર યુઆરએલ જાહેર કરવા માટે ઉત્પાદન વાતાવરણમાં ઉપયોગ કરવાની ભલામણ કરવામાં આવતી નથી. અમે તમારા મેજેન્ટોમાં આ મૂલ્ય બદલવાની ખૂબ ભલામણ કરીએ છીએ <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","કેશ પ્રકારોમાંથી એક અથવા વધુ અમાન્ય છે: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","કૃપા કરીને પર જાઓ <a href=""%1"">Cache Management</a> અને કેશના પ્રકારોને ક્લીયર કરો.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","અમે એક અથવા વધુ મીડિયા ફાઇલોને સમન્વયિત કરવામાં અસમર્થ હતા. કૃપા કરીને વિગતો માટે લોગ ફાઇલનો સંદર્ભ લો.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","મીડિયા સ્ટોરેજનું સુમેળ પૂર્ણ થયું છે.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","તમારું વેબ સર્વર ખોટી રીતે સેટ કરેલું છે અને સંવેદનશીલ ફાઇલોની અનધિકૃત એક્સેસની મંજૂરી આપે છે. કૃપા કરીને તમારા હોસ્ટિંગ પ્રદાતાનો સંપર્ક કરો.",module,Magento_AdminNotification
+"System Messages:","સિસ્ટમ સંદેશાઓ:",module,Magento_AdminNotification
+"Critical System Messages","જટિલ સિસ્ટમ સંદેશાઓ",module,Magento_AdminNotification
+"Major System Messages","મુખ્ય સિસ્ટમ સંદેશાઓ",module,Magento_AdminNotification
+"System Messages","સિસ્ટમ સંદેશાઓ",module,Magento_AdminNotification
+"Show Toolbar","ટૂલબાર બતાવો",module,Magento_AdminNotification
+"Show List","સૂચિ બતાવો",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","ફીડ મેળવવા માટે HTTPS નો ઉપયોગ કરો.",module,Magento_AdminNotification
+"Update Frequency","આવર્તન અપડેટ કરો",module,Magento_AdminNotification
+"Last Update","છેલ્લો સુધારો",module,Magento_AdminNotification
+"Severity","ઉગ્રતા",module,Magento_AdminNotification
+"Date Added","તારીખ ઉમેરી",module,Magento_AdminNotification
+"Message","સંદેશ",module,Magento_AdminNotification
+"Actions","ક્રિયાઓ",module,Magento_AdminNotification
+"Manage Shopping Cart","શોપિંગ કાર્ટ મેનેજ કરો",module,Magento_AdvancedCheckout
+"Create Order","ઓર્ડર બનાવો",module,Magento_AdvancedCheckout
+"Back","પાછળ",module,Magento_AdvancedCheckout
+"Add Products","પ્રોડક્ટ્સ ઉમેરો",module,Magento_AdvancedCheckout
+"Update Items and Quantities","આઇટમ્સ અને જથ્થો અપડેટ કરો",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","શું તમે ખરેખર તમારી કાર્ટ ક્લીયર કરવા માંગો છો?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","મારી શોપિંગ કાર્ટ ક્લીયર કરો",module,Magento_AdvancedCheckout
+"Add selections to my cart","મારા કાર્ટમાં પસંદગીઓ ઉમેરો",module,Magento_AdvancedCheckout
+"Cancel","રદ કરો",module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","શોપિંગ કાર્ટ માટે %1 માં %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","તમે જે પ્રોડક્ટ્સ ખરીદવા માંગો છો તે પસંદ કરો",module,Magento_AdvancedCheckout
+"Product","પ્રોડક્ટ્",module,Magento_AdvancedCheckout
+"Price","કિંમત",module,Magento_AdvancedCheckout
+"Quantity","જથ્થો",module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","તુલના સૂચિમાં ઉત્પાદનો (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","છેલ્લે ઓર્ડર કરેલી વસ્તુઓ (%1)",module,Magento_AdvancedCheckout
+"Products","પ્રોડક્ટ્સ",module,Magento_AdvancedCheckout
+"ID","આઇડી",module,Magento_AdvancedCheckout
+"SKU","SKU",module,Magento_AdvancedCheckout

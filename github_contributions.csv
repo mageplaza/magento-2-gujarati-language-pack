@@ -10,18 +10,9 @@
 "or","અથવા",module,Magento_Paypal
 "All","બધા",module,Magento_AdminGws
 "None","કંઈ નહીં",module,Magento_AdminGws
-"We can't find products matching the selection.","અમે આપણા પસંદગી સાથે મેળ ખાતા પ્રોડક્ટ્સ શોધી શકતા નથી.",module,Magento_Catalog
-"Compare Products","પ્રોડક્ટ્સની સરખામણી કરો",module,Magento_Catalog
-"You have no items to compare.","તમારી પાસે તુલના કરવા માટે કોઈ વસ્તુઓ નથી.",module,Magento_Catalog
-"My Wish List","મારી ઈચ્છા સૂચિ",module,Magento_Wishlist
-"You have no items in your wish list.","તમારી ઇચ્છા સૂચિમાં તમારી પાસે કોઈ વસ્તુઓ નથી.",module,Magento_Wishlist
-"close","બંધ કરો",module,Magento_AdminNotification
-"major","મુખ્ય",module,Magento_AdminNotification
-"minor","સામાન્ય",module,Magento_AdminNotification
-"notice","નોટિસ",module,Magento_AdminNotification
 "Allowed Scopes","અવકાશ મંજૂરી છે",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","""%1"" ડીલીટ કરવા માટે વધારે પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","કેટલાક નિયમ અપડેટ્સ લાગુ કરવા માટે તમારે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","""%1"" ડીલીટ કરવા માટે વધારે પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
 "More permissions are needed to view this item.","આ આઇટમ જોવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","આ એન્ટિટીને સ્ટોર વ્યૂને સોંપવાની જરૂર છે. એન્ટિટી સોંપણી ચકાસો અને ફરી પ્રયાસ કરો.",module,Magento_AdminGws
 "This item needs to be assigned to a store view.","આ આઇટમને સ્ટોર વ્યૂમાં સોંપવાની જરૂર છે.",module,Magento_AdminGws
@@ -36,6 +27,15 @@
 "More permissions are needed to save this setting.","આ સેટિંગને સેવ કરવા માટે વધુ પરવાનગીઓની જરૂર છે.",module,Magento_AdminGws
 "Role Scopes","રોલ અવકાશ",module,Magento_AdminGws
 "Custom","કસ્ટોમ",module,Magento_AdminGws
+"We can't find products matching the selection.","અમે આપણા પસંદગી સાથે મેળ ખાતા પ્રોડક્ટ્સ શોધી શકતા નથી.",module,Magento_Catalog
+"Compare Products","પ્રોડક્ટ્સની સરખામણી કરો",module,Magento_Catalog
+"You have no items to compare.","તમારી પાસે તુલના કરવા માટે કોઈ વસ્તુઓ નથી.",module,Magento_Catalog
+"My Wish List","મારી ઈચ્છા સૂચિ",module,Magento_Wishlist
+"You have no items in your wish list.","તમારી ઇચ્છા સૂચિમાં તમારી પાસે કોઈ વસ્તુઓ નથી.",module,Magento_Wishlist
+"close","બંધ કરો",module,Magento_AdminNotification
+"major","મુખ્ય",module,Magento_AdminNotification
+"minor","સામાન્ય",module,Magento_AdminNotification
+"notice","નોટિસ",module,Magento_AdminNotification
 "Read Details","વિગતો વાંચો",module,Magento_AdminNotification
 "Mark as Read","વાંચેલ તરીકે ચિહ્નિત કરો",module,Magento_AdminNotification
 "Are you sure?","શું તમને ખાતરી છે?",module,Magento_AdminNotification
@@ -98,3 +98,103 @@
 "Products","પ્રોડક્ટ્સ",module,Magento_AdvancedCheckout
 "ID","આઇડી",module,Magento_AdvancedCheckout
 "SKU","SKU",module,Magento_AdvancedCheckout
+"Home Page","હોમ",module,Magento_Paypal
+"Home","હોમ",module,Magento_Sales
+"Home","હોમ",module,Magento_Theme
+"Home","હોમ",module,Magento_VersionsCms
+"Home","હોમ",module,Magento_Backend
+"Home","હોમ",module,Magento_Catalog
+"Home","હોમ",module,Magento_CatalogSearch
+"Home","હોમ",module,Magento_Cms
+"Search Terms","શોધેલ શરતો",module,Magento_Reports
+"Search Terms","શોધેલ શરતો",module,Magento_Search
+"Search Terms","શોધેલ શરતો",module,Magento_SearchStaging
+"Privacy and Cookie Policy","ગોપનીયતા અને કૂકી નીતિ",module,Magento_Cms
+"Advanced Search","અદ્યતન શોધ",module,Magento_CatalogSearch
+"Advanced Search","અદ્યતન શોધ",module,Magento_SearchStaging
+"Orders and Returns","ઓર્ડર અને વળતર",module,Magento_Sales
+"Orders and Returns","ઓર્ડર અને વળતર",module,Magento_Widget
+"Contact Us","અમારો સંપર્ક કરો",module,Magento_Contact
+"Contact Us","અમારો સંપર્ક કરો",module,Magento_NegotiableQuote
+"Contact Us","અમારો સંપર્ક કરો",module,Magento_RequisitionList
+"contact us","અમારો સંપર્ક કરો",module,Magento_Shipping
+"Enter your email address","તમારુ ઇમેઇલ એડ્રેસ દાખલ કરો",module,Magento_Newsletter
+"Delete Selected Problems","પસંદ કરેલી સમસ્યાઓ કાઢી નાખો",module,Magento_Newsletter
+"Unsubscribe Selected","અનસબ્સ્ક્રાઇબ પસંદ કરેલ",module,Magento_Newsletter
+"Back","પાછળ",module,Magento_Newsletter
+"Reset","રીસેટ કરો",module,Magento_Newsletter
+"Preview Template","પૂર્વાવલોકન નમૂનો",module,Magento_Newsletter
+"Save Newsletter","ન્યૂઝલેટર સાચવો",module,Magento_Newsletter
+"Save and Resume","સાચવો અને ફરી શરૂ કરો",module,Magento_Newsletter
+"View Newsletter","ન્યૂઝલેટર જુઓ",module,Magento_Newsletter
+"Edit Newsletter","ન્યૂઝલેટર ફેરફાર કરો",module,Magento_Newsletter
+"Queue Information","કતાર માહિતી",module,Magento_Newsletter
+"Queue Date Start","કતાર તારીખ શરૂ",module,Magento_Newsletter
+"Subscribers From","તરફથી સબ્સ્ક્રાઇબર્સ",module,Magento_Newsletter
+"Subject","વિષય",module,Magento_Newsletter
+"Sender Name","મોકલનારનું નામ",module,Magento_Newsletter
+"Sender Email","મોકલનારનું ઇમેઇલ",module,Magento_Newsletter
+"Message","સંદેશ",module,Magento_Newsletter
+"Newsletter Styles","ન્યૂઝલેટર શૈલીઓ",module,Magento_Newsletter
+"Start","શરૂઆત",module,Magento_Newsletter
+"Pause","વિરામ",module,Magento_Newsletter
+"Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?",module,Magento_Newsletter
+"Cancel","રદ કરો",module,Magento_Newsletter
+"Resume","ફરી શરુ કરવું",module,Magento_Newsletter
+"Preview","પહેલા જોવું",module,Magento_Newsletter
+"Add New Template","નવો નમૂનો ઉમેરો",module,Magento_Newsletter
+"Newsletter Templates","ન્યૂઝલેટર નમૂનાઓ",module,Magento_Newsletter
+"Convert to Plain Text","સાદા ટેક્સ્ટમાં કન્વર્ટ કરો",module,Magento_Newsletter
+"Return HTML Version","HTML વર્ઝન પર પાછા ફરો",module,Magento_Newsletter
+"Delete Template",ટેમ્પલેટ કાઢી નાખો",module,Magento_Newsletter
+"Save As","તરીકે જમા કરવુ",module,Magento_Newsletter
+"Save Template","નમૂના સાચવો",module,Magento_Newsletter
+"Edit Newsletter Template","ન્યૂઝલેટર ટેમ્પલેટ ફેરફાર કરો",module,Magento_Newsletter
+"New Newsletter Template","નવું ન્યૂઝલેટર નમૂનો",module,Magento_Newsletter
+"Template Information","ટેમ્પલેટની માહિતી",module,Magento_Newsletter
+"Template Name","ટેમ્પલેટનું નામ",module,Magento_Newsletter
+"Template Subject","ટેમ્પલેટનો વિષય",module,Magento_Newsletter
+"Template Content","ટેમ્પલેટ સામગ્રી",module,Magento_Newsletter
+"Template Styles","ટેમ્પલેટની શૈલીઓ",module,Magento_Newsletter
+"No Templates Found","કોઈ ટેમ્પલેટ મળ્યા નથી",module,Magento_Newsletter
+"ID","આઇ.ડી",module,Magento_Newsletter
+"Template","ટેમ્પલેટ",module,Magento_Newsletter
+"Added","ઉમેર્યું",module,Magento_Newsletter
+"Updated","અપડેટ કર્યું",module,Magento_Newsletter
+"Sender","મોકલનાર",module,Magento_Newsletter
+"Template Type","ટેમ્પલેટ પ્રકાર",module,Magento_Newsletter
+"Action","ક્રિયા",module,Magento_Newsletter
+"Queue Newsletter","કતાર ન્યૂઝલેટર",module,Magento_Newsletter
+"We unsubscribed the people you identified.","તમે ઓળખેલા લોકોને અમે અનસબ્સ્ક્રાઇબ કર્યા છે.",module,Magento_Newsletter
+"The problems you identified have been deleted.","તમે ઓળખેલી સમસ્યાઓ કાઢી નાખવામાં આવી છે.",module,Magento_Newsletter
+"Newsletter Problems Report","ન્યૂઝલેટર સમસ્યાઓ અહેવાલ",module,Magento_Newsletter
+"Newsletter Problem Reports","ન્યૂઝલેટર સમસ્યાઓ અહેવાલ",module,Magento_Newsletter
+"Newsletter Queue","ન્યૂઝલેટર કતાર",module,Magento_Newsletter
+"Edit Queue","કતાર ફેરફાર કરો",module,Magento_Newsletter
+"Please correct the newsletter template and try again.","કૃપા કરીને ન્યૂઝલેટર ટેમ્પલેટને ઠીક કરો અને ફરી પ્રયાસ કરો",module,Magento_Newsletter
+"You saved the newsletter queue.","તમે ન્યૂઝલેટરની કતાર સાચવી છે.",module,Magento_Newsletter
+"Newsletter Subscribers","ન્યૂઝલેટર સબ્સ્ક્રાઇબર્સ",module,Magento_Newsletter
+"Newsletter","ન્યૂઝલેટર",module,Magento_Newsletter
+"Subscribers","સબ્સ્ક્રાઇબર્સ",module,Magento_Newsletter
+"Please select one or more subscribers.","કૃપા કરીને એક અથવા વધુ સબ્સ્ક્રાઇબર્સ પસંદ કરો.",module,Magento_Newsletter
+"Total of %1 record(s) were deleted.","કુલ %1 રેકોર્ડ કાઢી નાખવામાં આવ્યા હતા.",module,Magento_Newsletter
+"A total of %1 record(s) were updated.","કુલ %1 રેકોર્ડ(ઓ) અપડેટ કરવામાં આવ્યા હતા.",module,Magento_Newsletter
+"The newsletter template has been deleted.","ન્યૂઝલેટર ટેમ્પલેટ કાઢી નાખવામાં આવ્યું છે.",module,Magento_Newsletter
+"We can't delete this template right now.","અમે હમણાં આ ટેમ્પલેટને કાઢી શકતા નથી.",module,Magento_Newsletter
+"Edit Template","નવું ટેમ્પલેટ ફેરફાર કરો",module,Magento_Newsletter
+"New Template","નવું ટેમ્પલેટ",module,Magento_Newsletter
+"Create Newsletter Template","ન્યૂઝલેટર ટેમ્પલેટ બનાવો",module,Magento_Newsletter
+"The newsletter template has been saved.","ન્યૂઝલેટર ટેમ્પલેટ સાચવવામાં આવ્યું છે.",module,Magento_Newsletter
+"Something went wrong while saving this template.","આ ટેમ્પલેટને સાચવતી વખતે કંઈક ખોટું થયું.",module,Magento_Newsletter
+"Newsletter Subscription","ન્યૂઝલેટર સબ્સ્ક્રિપ્શન",module,Magento_Newsletter
+"Something went wrong while saving your subscription.","તમારું સબ્સ્ક્રિપ્શન સાચવતી વખતે કંઈક ખોટું થયું.",module,Magento_Newsletter
+"We have saved your subscription.","અમે તમારું સબ્સ્ક્રિપ્શન સાચવ્યું છે.",module,Magento_Newsletter
+"A confirmation request has been sent.","એક પુષ્ટિકરણ વિનંતી મોકલવામાં આવી છે.",module,Magento_Newsletter
+"We have removed your newsletter subscription.","અમે તમારું ન્યૂઝલેટર સબ્સ્ક્રિપ્શન દૂર કર્યું છે.",module,Magento_Newsletter
+"We have updated your subscription.","અમે તમારું સબ્સ્ક્રિપ્શન અપડેટ કર્યું છે.",module,Magento_Newsletter
+"Your subscription has been confirmed.","તમારું સબ્સ્ક્રિપ્શન કન્ફર્મ કરવામાં આવ્યું છે.",module,Magento_Newsletter
+"This is an invalid subscription confirmation code.","આ એક અમાન્ય સબ્સ્ક્રિપ્શન કન્ફર્મેશન કોડ છે.",module,Magento_Newsletter
+"This is an invalid subscription ID.","આ એક અમાન્ય સબ્સ્ક્રિપ્શન ID છે.",module,Magento_Newsletter
+"This email address is already assigned to another user.","આ ઈમેલ સરનામું પહેલાથી જ બીજા વપરાશકર્તાને અસાઇન કરેલ છે.",module,Magento_Newsletter
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","માફ કરશો, પરંતુ એડમિનિસ્ટ્રેટરે મહેમાનો માટે સબ્સ્ક્રિપ્શન નકાર્યું. કૃપા કરીને <a href=""%1"">નોંધણી કરો</a>.",module,Magento_Newsletter
+"Please enter a valid email address.","કૃપા કરીને માન્ય ઈમેલ સરનામું દાખલ કરો",module,Magento_Newsletter
